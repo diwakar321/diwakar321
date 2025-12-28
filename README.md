@@ -44,21 +44,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🎬 Netflix Clone (MERN Stack)
-A full-stack Netflix-like application with authentication and protected routes.  
-🔗 Repository: https://github.com/diwakar321/netflix-clone  
-🌐 Live Demo: https://netflix-clone-frontend-tau.vercel.app/
-
----
-
-### 🎨 UI Animation Practice
-A frontend practice project focused on CSS animations and JavaScript interactions.  
-🔗 Repository: https://github.com/diwakar321/ui-animation-practice
-
----
-
 ## 🎯 Goals
 - Build scalable real-world applications
 - Improve backend and system design skills
